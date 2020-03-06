@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Default View"
+    id="1b146f7c-b27e-4dab-9bc2-cde1a5d3ab72">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="dbbf6708-d06f-4b5f-969c-6c93c1034ab6">
+    <bounds
+        x="702"
+        y="246"
+        width="247"
+        height="163"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_1eedcca5-e136-411b-bd80-ce37dda4aa70.xml#1eedcca5-e136-411b-bd80-ce37dda4aa70"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a3669322-cdcb-4c40-a88a-773f88268d1d">
+    <bounds
+        x="743"
+        y="136"
+        width="194"
+        height="93"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_fa075002-0800-4506-b752-0cb0c541cf53.xml#fa075002-0800-4506-b752-0cb0c541cf53"/>
+  </children>
+</archimate:ArchimateDiagramModel>
